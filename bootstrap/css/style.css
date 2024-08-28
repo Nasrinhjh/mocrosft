@@ -1,0 +1,28 @@
+@import url("./header.css");
+@import url("./slider1.css");
+@import url("./card.css");
+@import url("./whate.css");
+@import url("./images.css");
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "sego";
+    list-style: none;
+    
+}
+@font-face {
+    font-family: "sego";
+    src: url("../fonts/SegoeUI.eot");
+    src: url("../fonts/SegoeUI.ttf");
+    src: url("../fonts/SegoeUI.woff2");
+    src: url("../fonts/SegoeUI.woff");
+}
+@font-face {
+    font-family: "lale";
+    src: url("../fonts/lale/Lalezar-Regular.otf");
+}
+.lale{
+    font-family: "lale";
+}

@@ -1,0 +1,25 @@
+.font-13{
+    font-size: 13px !important;
+}
+.w-1000{
+    width: 100px;
+}
+.input-search{
+    width: 30px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+
+}
+@media screen and (max-width:1600px) {
+    .hide{
+        display: block;
+    }
+    
+}
+a.nav-link:hover{
+    border-bottom: 2px solid black;
+}
+.top-25{
+    top: 25px;
+}
